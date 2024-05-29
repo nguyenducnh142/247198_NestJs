@@ -1,0 +1,23 @@
+[
+  {
+    "username": "user1",
+    "fullname": "Nguoi thu 1",
+    "role": "Admin",
+    "project": ["prj1"],
+    "activeYn": "Y"
+  },
+  {
+    "username": "user2",
+    "fullname": "Nguoi thu 2",
+    "role": "Developer",
+    "project": ["prj1", "prj2"],
+    "activeYn": "Y"
+  },
+  {
+    "username": "user3",
+    "fullname": "Nguoi thu 3",
+    "role": "Developer",
+    "project": ["prj2", "prj3"],
+    "activeYn": "Y"
+  }
+]
